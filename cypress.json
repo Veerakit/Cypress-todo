@@ -1,0 +1,8 @@
+{
+
+    "baseUrl":"https://unique-dieffenbachia-f6742a.netlify.app/?fbclid=IwAR3iCG6jqcm2VAmqDAPFhZ6OUUjPLAvjSukpU0QsqvRUgvHd-FUa9ZZqIJQ",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "testFiles": "**/*.feature"
+
+}
